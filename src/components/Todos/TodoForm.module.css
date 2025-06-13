@@ -1,0 +1,21 @@
+:root {
+  --standart-size: 1.5rem;
+}
+
+.formInput {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-flow: row nowrap;
+
+  > input {
+    width: 60%;
+    text-align: left;
+    padding: var(--standart-size);
+    border-radius: 15px;
+    font-size: var(--standart-size);
+  }
+}

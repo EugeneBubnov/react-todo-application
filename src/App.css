@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Jost-Regular';
+  src: local('Jost-Regular'), url('./fonts/Jost-Regular.ttf');
+}
+
+.App {
+  text-align: center;
+  font-family: 'Jost-Regular', sans-serif;
+}
+
+body {
+  width: 100%;
+  background-color: #151b23;
+}
+
+main {
+  max-width: 850px;
+  margin: 0 auto;
+}
