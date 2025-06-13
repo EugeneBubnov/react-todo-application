@@ -17,10 +17,3 @@ main {
   max-width: 850px;
   margin: 0 auto;
 }
-
-@media (width <= 360) {
-  main {
-    max-width: 340px;
-    width: 100%;
-  }
-}
