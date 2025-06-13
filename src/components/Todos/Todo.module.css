@@ -66,9 +66,3 @@
 .deleteIcon:hover {
   color: red;
 }
-
-@media (width <= 768) {
-  .todo {
-    font-size: 1rem;
-  }
-}
