@@ -23,6 +23,13 @@
   overflow-wrap: break-word; /* Переносит длинные слова */
   margin: 0;
   padding: 4px 0;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 360px) {
+  .todoText {
+    font-size: 0.75em;
+  }
 }
 
 .todoIcon {

@@ -19,3 +19,9 @@
     font-size: var(--standart-size);
   }
 }
+
+@media (max-width: 360px) {
+  .formInput input {
+    font-size: 1.25em;
+  }
+}
