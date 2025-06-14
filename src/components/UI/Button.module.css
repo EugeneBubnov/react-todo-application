@@ -1,22 +1,22 @@
 .button {
-  margin-left: 20px;
-  height: 50px;
+  margin-left: 10px;
+  height: 2em;
   cursor: pointer;
   background-color: bisque;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   padding: 10px 15px;
   border: none;
   border-radius: 5px;
   align-content: center;
 }
 
-@media (width < 768) {
-  .button {
-    margin-right: 10px;
-    font-size: 1rem;
-  }
-}
-
 .button:hover {
   background-color: rgb(240, 240, 155);
+}
+
+@media (min-width: 360) {
+  .button {
+    margin-right: 10px;
+    font-size: 1em;
+  }
 }
