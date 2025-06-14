@@ -72,7 +72,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <main>
+      <main className="mainBlock">
         <TodoForm addTodo={addTodoHandler} />
         {todos.length ? (
           <TodosAction

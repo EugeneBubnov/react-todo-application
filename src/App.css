@@ -13,7 +13,14 @@ body {
   background-color: #151b23;
 }
 
-main {
+.mainBlock {
   max-width: 850px;
   margin: 0 auto;
+}
+
+@media (max-width: 360px) {
+  .mainBlock {
+    max-width: 340px;
+    font-size: 0.875em;
+  }
 }

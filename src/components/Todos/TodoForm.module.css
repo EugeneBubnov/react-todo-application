@@ -1,10 +1,10 @@
 :root {
-  --standart-size: 1.5rem;
+  --standart-size: 1.5em;
 }
 
 .formInput {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.875em;
+  margin-bottom: 0.875em;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -14,7 +14,7 @@
   > input {
     width: 60%;
     text-align: left;
-    padding: var(--standart-size);
+    padding: 0.875em;
     border-radius: 15px;
     font-size: var(--standart-size);
   }
