@@ -14,7 +14,8 @@
 
 ![Скриншот React Todo App](preview/desc1.png)
 
-Есть адаптив под мобильные устройства
+Адаптив под мобильные устройства:
+
 ![Mob version](preview/mob.png)
 
 
