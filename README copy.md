@@ -1,4 +1,25 @@
-# React project for the React course.
+# React Todo Application
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+Простое приложение для управления задачами, созданное с помощью React и JavaScript.
+
+[🌐 Открыть приложение](https://eugenebubnov.github.io/react-todo-application/)
+
+
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://eugenebubnov.github.io/react-todo-application/)
+[![GitHub](https://img.shields.io/badge/source-code-blue.svg)](https://github.com/EugeneBubnov/react-todo-application)
+
+![Скриншот React Todo App](preview/desc1.png)
+
+Есть адаптив под мобильные устройства
+![Mob version](preview/mob.png)
+
+
+_________________________________
+# Dev info: React project for the React course.
 
 ## Available Scripts
 
